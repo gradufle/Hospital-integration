@@ -1,5 +1,5 @@
 clear
-global in C:\Users\lguerin\OneDrive - ehesp.fr\Dossier partage\PaperGHT\FINALWPGHT //Setup path for datasource
+global in C:\Users\lguerin\OneDrive - ehesp.fr\Dossier partage\PaperGHT\FINALWPGHT //Setup path for datasource, data available at: https://doi.org/10.57745/DHYZHS
 use "${in}/datasetup3.dta", clear
 
 ****Setup*****
